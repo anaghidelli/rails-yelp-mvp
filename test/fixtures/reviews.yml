@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  parent_restaurant: MyString
+  content: MyString
+  rating: 
+  restaurants: one
+
+two:
+  parent_restaurant: MyString
+  content: MyString
+  rating: 
+  restaurants: two
